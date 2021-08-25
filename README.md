@@ -11,10 +11,12 @@ The code is written in three parts:
         There is AST method.
 
 
-    Supported operations:
-        +, -, * , / 
-    Supported numbers:
-        Integers, positive, one number one digit (0-9)
-        NOT supported examples: -1, 1.1, 11
+Supported operations:
+
+     +, -, * , / 
+Supported numbers:
+
+     Integers, positive, one number one digit (0-9)
+     NOT supported numbers examples: -1, 1.1, 11
         
         
